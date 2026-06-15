@@ -14,6 +14,7 @@ class Sample(BaseSample):
         keys = [
             "group_index",
             "index",
+            "group_id",
             "messages",
             "prompt",
             "response",
