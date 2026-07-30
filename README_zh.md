@@ -21,6 +21,7 @@
 `qqr` 是一个轻量级、非侵入式的 [`slime`](https://github.com/THUDM/slime) 扩展库。集成了 [Model Context Protocol (MCP)](https://github.com/modelcontextprotocol)，通过 **ArenaRL** 算法实现开放域智能体的进化。
 
 ## 📰 新闻
+- **[2026.07.30]** 🔥 我们发布了 [**SecRespond**](https://arxiv.org/abs/2607.26791)，一个面向真实世界入侵后事件响应的智能体评测基准，并开源了[数据与评测脚本](data/secrespond/)。
 - **[2026.05.01]** 🎉 我们的论文 ArenaRL 被 **ICML 2026** 接收！
 
 ## 🌟 核心特性
